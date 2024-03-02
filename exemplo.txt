@@ -1,0 +1,32 @@
+def teste():
+    x = 10
+    y = 15
+    soma = x*y
+    if(soma<=25):
+        print('numero igual a 25')
+    else:
+        print('bla')
+    return soma
+def teste():
+    x = 10
+    y = 15
+    soma = x-y
+    if(soma==25):
+        print('numero igual a 25')
+    else:
+        print('bla')
+    return x
+problema = 'magnus'
+while problema == 'magnus':
+    print('Vai levar advertencia')
+    print('sem futuro isso ai')
+    
+def teste():
+    x = 10
+    y = 15
+    soma = x/y
+    if(soma==25):
+        print('numero igual a 25')
+    else:
+        print('bla') 
+    return 55
